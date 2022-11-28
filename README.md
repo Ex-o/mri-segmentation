@@ -1,1 +1,3 @@
-# mri-segmentation
+# Application of Deep Learning Techniques for Prostate Magnetic Resonance Imaging (MRI) Segmentation
+
+This project is an exercise of Computer Vision (CV) with different Deep Learning (DL) algorithms applied on a set of prostate MRIs in order to provide easier, or at least preliminary diagnostics of tumors in the absence of radiologists. The models show impressive results that are enough to indicate some signals that can aid practinioners in their diagnosis. The project is split into a few parts, the preparation of the data and the training. Everything can be found in the Jupyter notebooks, as awell as a report in the findings. There's also an experiment project that is quite close to the final result, but applied on the brain! This work too, despite being very similar, showed promising results as well, it can be used to check how effective these networks are at segmentation out-of-the-box.
